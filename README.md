@@ -1,4 +1,4 @@
-# 🚀 GaaferGouda20's Embedded Systems Lab
+# 🚀 GaaferGouda's Embedded Systems Lab
 
 Welcome to my personal lab of **powerful embedded systems projects**! This repository showcases my hands-on expertise in building real-world systems, from space technology to robotics and precision optics. Each project demonstrates deep skills in **embedded C/C++**, **microcontrollers**, **control systems**, and **hardware-software integration**.
 
@@ -63,7 +63,7 @@ Includes:
 
 ---
 
-## 📚 Coming Soon
+## 📚 Coming Soon InShaaAllah
 - Detailed documentation for each project
 - Circuit schematics & wiring diagrams
 - Code tutorials & explanations
