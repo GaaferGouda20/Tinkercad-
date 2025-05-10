@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SERVO1, SERVO2, SERVO3, SERVO4",4,"Positional Micro Servo"
+"P1",1,"5 , 25  Power Supply"
+"Rpot1, Rpot2, Rpot3, Rpot4",4,"10 kΩ Potentiometer"
+"S1",1," Pushbutton"
+"R2",1,"10 kΩ Resistor"
+"D1",1,"Blue LED"
+"R1",1,"300 Ω Resistor"
